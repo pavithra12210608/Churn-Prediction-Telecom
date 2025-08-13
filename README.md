@@ -73,9 +73,4 @@ By identifying at-risk customers early, the company can implement **retention st
 
 ---
 
-## 🚀 How to Run the Project
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/your-username/churn-prediction.git
-cd churn-prediction
 
